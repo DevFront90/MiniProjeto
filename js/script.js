@@ -1,6 +1,6 @@
 // Trocar valores de variáveis //
 
-/*let a = 'vermelho';
+let a = 'vermelho';
 let b ='Azul';
 
 let c = a; // Armazena 'vermelho' temporariamente em c
